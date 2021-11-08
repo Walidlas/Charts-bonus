@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lineChatButton" type="id" />
+    <item name="halfPieChatButton" type="id" />
+    <item name="multipleBarChatButton" type="id" />
+</resources>
